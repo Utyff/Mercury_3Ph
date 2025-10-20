@@ -8002,6 +8002,12 @@
     <group>
         <name>App</name>
         <file>
+            <name>$PROJ_DIR$\..\Source\mercury230.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Source\mercury230.h</name>
+        </file>
+        <file>
             <name>$PROJ_DIR$\..\Source\OSAL_App.c</name>
         </file>
         <file>
@@ -8684,12 +8690,6 @@
         </file>
         <file>
             <name>$PROJ_DIR$\..\zstack-lib\hal_key.h</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\zstack-lib\mercury230.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\zstack-lib\mercury230.h</name>
         </file>
     </group>
 </project>
